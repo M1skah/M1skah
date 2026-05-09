@@ -61,7 +61,10 @@
 
 <h2>Listening To Spotify</h2>
 <div align="center">
-  <a href="https://open.spotify.com/user/31rit7td2covtntlh7vgyozbvkca?si=32c56f890baa461f">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=[naqumiyv23ff19ammtm9njdrr](https://open.spotify.com/user/31rit7td2covtntlh7vgyozbvkca?si=60810ffd73cf4d51)&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify" />
-  </a>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31rit7td2covtntlh7vgyozbvkca&redirect=true">
+  <img
+    src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rit7td2covtntlh7vgyozbvkca&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false"
+    alt="Spotify GitHub Profile"
+  />
+</a>
 </div>
